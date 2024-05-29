@@ -8,6 +8,6 @@
 직업명을 검색하던 기존의 진로정보사이트에서 벗어나 자신의 현재 상태, 특징 등을 담은 본인의 이야기를 프롬프트에 입력하면 ai가 이를 읽고 적합한 직업군을 추천해준다. 추천받은 직업군 중에서 특정 직업을 선택해 더 자세한 기본 정보를 얻을 수 있으며 
 가볍게라도 직업을 준비하거나 체험해보는데에 관심이 생겼다면 어디서부터 시작해야할지에 대한 가이드를 지루하지 않은 콘텐츠들을 곁들여 제공해 본인의 적성을 효율적이고 빠르게 알아가볼 수 있게 한다.
 ## 예상 개발 스택
-<img src="https://img.shields.io/badge/figma-F24E1E"> <img src="https://img.shields.io/badge/python-3776AB">
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 ## 프로토타입
 
